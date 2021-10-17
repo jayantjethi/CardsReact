@@ -1,0 +1,6 @@
+.LeaderBoard{
+    display: flex;
+    background: gray;
+    flex-direction: column;
+    justify-content: space-around;
+}
